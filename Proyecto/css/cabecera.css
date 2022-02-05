@@ -1,0 +1,8 @@
+.primeraparte__cabecera {
+    background-image: url(../imagenes/cabecera_fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+}
